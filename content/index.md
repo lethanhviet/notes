@@ -1,6 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Viet T LE's notes 🤖
 ---
+Hi there 👋.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+My name is Viet T LE.
+
+This collection is my draft notes for various topics, and at various stages.
+
+Please refer back to [Homepage](https://ltviet.com) for more information.
